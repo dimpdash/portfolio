@@ -8,6 +8,7 @@ import codeIcon from "./images/code.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
+import linkedinIcon from "./images/linkedin.png"
 import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
@@ -130,6 +131,7 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/dimpdash" },
+    { img: linkedinIcon, url: "https://www.linkedin.com/in/daniel-hawkins-melbourne"}
   ],
 
   // End Contact Section ---------------
